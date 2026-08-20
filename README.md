@@ -1,56 +1,56 @@
 ![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Alejandra+Tulcan;I'm+Biomedical+Engineer;I'm+Data+Analyst;I'm+Python+Developer;Healthcare+Technology+Enthusiast"></p>
-<h3 align="center">Biomedical Engineer | Data Analyst | Python & AI Enthusiast</h3>
+<h3 align="center">Biomedical Engineer | Programming & Data | Healthcare Technology</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🧬 Biomedical Engineer who enjoys bringing **engineering and technology into healthcare**
+  
+- 🔎 I’m naturally curious — I enjoy **researching, learning and figuring things out**
+  
+- 📊 I’m interested in **data, programming and how they can be applied to healthcare**
+  
+- ☁️ Currently learning more about **databases and cloud technologies**
+  
+- 🚀 Always looking for something new to learn and build
 
-- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
-
-- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
-
-- 📫 How to reach me **pathakkakul@gmail.com**
-
-- ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
 
 ```javascript
+
 const Alejandra = {
-  pronouns: "She" | "Her",
-  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["GCP", "AIML", "Databases"],
-  }
+
+    passion: [
+        "Healthcare Technology",
+        "Artificial Intelligence",
+        "Data Analysis"
+    ],
+
+    skills: {
+        programming: ["Python"],
+        data: ["Pandas", "NumPy", "Matplotlib"],
+        machineLearning: ["Scikit-learn", "XGBoost"],
+        tools: ["Git", "GitHub", "VS Code", "Arduino"]
+    },
+
+    interests: [
+        "Medical AI",
+        "Medical Imaging",
+        "Research & Development",
+        "Healthcare Innovation"
+    ],
+
+    funFact: "I love photography and creative projects 📷"
+};
+
 }
 ```
-------------------
-
-## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
-<br>
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-  
-<!-- START_SECTION:blog -->
-| Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
-| :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021 - Present | 8.95 CGPA |
-| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020 - 2021 | 98.4 |
-| Highschool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | GRM School, Bareilly | CBSE | 2018 - 2019 | 98.2 |
-<!-- END_SECTION:blog -->
-</td>
-</tr>
-</table>  
 
 -------------------
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
@@ -284,35 +284,6 @@ const Alejandra = {
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-
-----------------------
-
-## :mailbox: Get In Touch
-<div align="center">
-<table border="0">
-  <tr>
-    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
-    </tr>
-</table>
-</div>
-
-------------------------
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-
-<p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=juhipathak23&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="juhipathak23" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiPathak23&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
-</p>
 
 ----------------------
 
