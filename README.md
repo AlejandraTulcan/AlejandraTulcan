@@ -1,4 +1,4 @@
-![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
+![logo](./inicio.jpg)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Alejandra+Tulcan;I'm+Biomedical+Engineer;I'm+Data+Analyst;I'm+Python+Developer;Healthcare+Technology+Enthusiast"></p>
 <h3 align="center">Biomedical Engineer | Programming & Data | Healthcare Technology</h3>
